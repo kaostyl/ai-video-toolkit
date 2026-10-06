@@ -1,0 +1,295 @@
+{
+  "scope": "video-only",
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "fb0ac40d6b3c29825dd393f144d2dffcd20c0e53359cf49921577e9ca410212a",
+      "bytes": 82
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+      "bytes": 19
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "0056e414b1ac082c87791ce6536504321d942b72a17aba86139e68a1f65a8d9c",
+      "bytes": 204
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "285220a086b49abff4e9ae458f882812f2abedcf631f2646f7d57da4f43fa034",
+      "bytes": 3856
+    },
+    {
+      "path": "catalog/capabilities.json",
+      "sha256": "58c6fd3a32e6832a870109507fa28fa172e7b1f249c25b1ede38307c76e600bb",
+      "bytes": 1902
+    },
+    {
+      "path": "docs/CLOUD.md",
+      "sha256": "d0e4f67423f33019b95f2b483f7140df51a157bffeecb1924858fef0d2d90aa3",
+      "bytes": 2222
+    },
+    {
+      "path": "docs/PLANS.md",
+      "sha256": "ac827c571a2e0ad8b624d5e0aac7a7ce633d309760d4c0cb2958dd2d0b7a2927",
+      "bytes": 3333
+    },
+    {
+      "path": "docs/QUICKSTART.md",
+      "sha256": "ed4b0ac939fe0607f033a8ab2582e317cc924fc709b27e8d492120dd896afc8f",
+      "bytes": 4147
+    },
+    {
+      "path": "docs/QUICKSTART_EN.md",
+      "sha256": "fc9d2521ba5c43c7eeafbc28c84aede38010018257b5b6df26d58f8045e817dc",
+      "bytes": 1651
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "sha256": "e0d7a8077155390b470cd53c4b161101c79ee54311163f538d1ee81051cd7b6f",
+      "bytes": 2460
+    },
+    {
+      "path": "examples/edit.json",
+      "sha256": "9247e8af76a87371fabb0b399e1ccf0130bf6ab9242b2b643c98d592f7fe8a17",
+      "bytes": 227
+    },
+    {
+      "path": "examples/plan.json",
+      "sha256": "32c9f258d337001a7401be372731ecd593e19c09d800a33c04828437cef4c55b",
+      "bytes": 827
+    },
+    {
+      "path": "hyperframes/build.mjs",
+      "sha256": "eabcbe18550b1839d16e3b16986af9c4431fb540f63248673f2d1954139ff629",
+      "bytes": 3007
+    },
+    {
+      "path": "hyperframes/hyperframes.json",
+      "sha256": "e228c682ac2556ff697095ff857295543ca3a54caa8086d6ee3703f2f1ac2120",
+      "bytes": 264
+    },
+    {
+      "path": "hyperframes/meta.json",
+      "sha256": "ab3d00fa3e0f80743ed1ea3d2ff54e3c2f27e36bc34d28d5bf8c43bbfd970fa6",
+      "bytes": 89
+    },
+    {
+      "path": "hyperframes/overlay.html",
+      "sha256": "f7d169b6bb43965bac275614615439880951fcc9e72c0cc12844b06598339af3",
+      "bytes": 26594
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "b0fc20fbd4d8682558845eb45560cd61c3c4ee4341692a9a7fcd73bd84ec56b6",
+      "bytes": 1086
+    },
+    {
+      "path": "README.md",
+      "sha256": "bb999621b9dfbf61d84e05fd833d68f9e3977e26dee75ef51615fe862be1c402",
+      "bytes": 4178
+    },
+    {
+      "path": "remotion/package-lock.json",
+      "sha256": "39c2a455f75109f3ed9493e3919cadf579fa2605719e00ce2f48f447b585209a",
+      "bytes": 107750
+    },
+    {
+      "path": "remotion/package.json",
+      "sha256": "253c7d7b069a8a841b9a63950dcfead36a1cb385e225d3e1c55545ee5917214b",
+      "bytes": 573
+    },
+    {
+      "path": "remotion/render-assets.mjs",
+      "sha256": "8d236e651ef8539fd72990e3f63fe4b7624b6fcb92e113cd2f3c7799da6ece46",
+      "bytes": 3000
+    },
+    {
+      "path": "remotion/src/design/edge.tsx",
+      "sha256": "8e4fe493a1d25747cb5f349aa7f165b8bbfa0469fb31060947b440716655d300",
+      "bytes": 9913
+    },
+    {
+      "path": "remotion/src/design/HudCard.tsx",
+      "sha256": "bb5a5705f3991995cf87a806c0ebef28c285c7091599cee36233a7dee8400192",
+      "bytes": 2736
+    },
+    {
+      "path": "remotion/src/design/primitives.tsx",
+      "sha256": "83e46ca2b84f0f544dea2f9efc81bb37229b104e0c81f1f367638a0f3a433872",
+      "bytes": 7448
+    },
+    {
+      "path": "remotion/src/design/schemas.tsx",
+      "sha256": "a48eef69e75354c79ca41d5de414ed65e231f378887f1ae40a49f5642aa5b06c",
+      "bytes": 22509
+    },
+    {
+      "path": "remotion/src/design/theme.ts",
+      "sha256": "f75f6aeaeff8f83d03b01f6d5f26528e15de68e8a7efbf58180497a4589b7945",
+      "bytes": 2565
+    },
+    {
+      "path": "remotion/src/index.ts",
+      "sha256": "5462d3268136731ce43bfd7c5072ea1ba48b51fec94fa30076f5044f4b39e4a2",
+      "bytes": 105
+    },
+    {
+      "path": "remotion/src/OverlayComp.tsx",
+      "sha256": "07bcf5d469b46cd36b09d513d64cafc03d1b243d0b276b61b1822a78fa3e7d89",
+      "bytes": 2326
+    },
+    {
+      "path": "remotion/src/Root.tsx",
+      "sha256": "24254f3801126e02a7873c8aa5df3f2ed875c9b65d59e1a6d1de1458bd5dfb0d",
+      "bytes": 1583
+    },
+    {
+      "path": "remotion/tsconfig.json",
+      "sha256": "b1ac2f604bd3f02eba53e849d211a1cf188e62c04c4b8273c319ea2b6415d85c",
+      "bytes": 284
+    },
+    {
+      "path": "requirements-transcription.txt",
+      "sha256": "c56111c3ea68f28f564f167b2b619b89bcc5439f355d40b294716947a9b5b269",
+      "bytes": 43
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8001ee4d7c84859e1dbd82ae516213810338f6aea906c4dc7a9dbf597023b0a6",
+      "bytes": 32
+    },
+    {
+      "path": "scripts/broll.py",
+      "sha256": "9672b430f322b9f16ba6920001ae92375d052ee37d67d41749627e1f0a799397",
+      "bytes": 4435
+    },
+    {
+      "path": "scripts/captions.py",
+      "sha256": "626bf115934140ada29f3ad8ce73c22cb8e01a92487c5eaf4957e862ef10bfa6",
+      "bytes": 2346
+    },
+    {
+      "path": "scripts/compose.py",
+      "sha256": "a3c0cdb36af8b44182f6add178d6f1b2e72164a2fc9e3ace6c055f6144e59a87",
+      "bytes": 11603
+    },
+    {
+      "path": "scripts/davinci_timeline.py",
+      "sha256": "7e07c469ef2022e6fce3a7ef0de6059ee11d945161f54a4dad42686d325d2e91",
+      "bytes": 7563
+    },
+    {
+      "path": "scripts/edit.py",
+      "sha256": "63341b491f65c21259ea400e41887c62f8ea6ec5aaaefc51a1fabd6afe314554",
+      "bytes": 4976
+    },
+    {
+      "path": "scripts/motion.py",
+      "sha256": "c9fb89939fad7708dffd6d78b55daa9a119e489b7670ba661ca6996cc56628be",
+      "bytes": 28543
+    },
+    {
+      "path": "scripts/pipeline.py",
+      "sha256": "84bdcdbec2c77976320382f39c33bf086649c3c1d1fa1964bfc3c93708b9d952",
+      "bytes": 6564
+    },
+    {
+      "path": "scripts/qc.py",
+      "sha256": "564dcebab957d4097927d2ae125f032c3d94960b25a85d41301981698dc0b6ae",
+      "bytes": 4787
+    },
+    {
+      "path": "scripts/sfx.py",
+      "sha256": "f420e440e5309631956bb9196106a841df224750189c8ba430decb8514f2450e",
+      "bytes": 8753
+    },
+    {
+      "path": "scripts/storyboard.py",
+      "sha256": "6a10b14de94a3bac4883a37b03ee97c191da4dee3623bf63ef9dde8cdf6987b5",
+      "bytes": 2489
+    },
+    {
+      "path": "scripts/transcribe.py",
+      "sha256": "5df3779075c58a28e79d55d4d5a97f7c99e890d00e07626aff32d63dfbb0b32f",
+      "bytes": 3047
+    },
+    {
+      "path": "scripts/validate_plan.py",
+      "sha256": "03dbd7f1704445ea510be6fd8cf4455840696fc26a87428559d1681475987606",
+      "bytes": 6898
+    },
+    {
+      "path": "skills/video-audio/SKILL.md",
+      "sha256": "a118727994558be6e21fffcf1d38343f51652e5915ca149648836dfc8a8ddb25",
+      "bytes": 960
+    },
+    {
+      "path": "skills/video-captions/SKILL.md",
+      "sha256": "752e84d0d36276093a566b465d14db4f215c8c5d46c968d180cb06b29791e779",
+      "bytes": 971
+    },
+    {
+      "path": "skills/video-editing/SKILL.md",
+      "sha256": "575508cf1d512d3a0b0d30a6ef7c0596b6b9905ae0369c9dff2d8d2482d54f31",
+      "bytes": 1043
+    },
+    {
+      "path": "skills/video-generation/SKILL.md",
+      "sha256": "b6a97dc37d9ed6e5b5b329910980dcde1baa218b6e75e3abd16aa64dc92b0eb3",
+      "bytes": 1157
+    },
+    {
+      "path": "skills/video-overlays/SKILL.md",
+      "sha256": "87ba462b12ab4fb1b7808ab1fd291ba65353bbec4f9c48a28089254412611425",
+      "bytes": 1204
+    },
+    {
+      "path": "skills/video-planning/SKILL.md",
+      "sha256": "fe9917d259bda8c19c193c992e51feab1dda5f432f1181d00d7d1cbf3ecc97d4",
+      "bytes": 1216
+    },
+    {
+      "path": "skills/video-quality/SKILL.md",
+      "sha256": "a7be5107561527f67bd17f042d16d6e634c5c97083d6c719fd53d77d78fc70bd",
+      "bytes": 973
+    },
+    {
+      "path": "skills/youtube-packaging/SKILL.md",
+      "sha256": "92af2e029c0717a276ea165429ddbf7f4f35b17e57f06fa6bfa1106952052b44",
+      "bytes": 928
+    },
+    {
+      "path": "tests/test_video.py",
+      "sha256": "803f10a04cd6a98d619cba5c361b2883cf8fa67d0a8c521f4124cab98af6cb02",
+      "bytes": 5900
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "sha256": "69fa31305362a0266f9c4b47e2baebae6de268c3e1c67785578c14abf2366309",
+      "bytes": 1559
+    },
+    {
+      "path": "tools/audit.py",
+      "sha256": "eef49e06ee5fdaef5faf19a4bbc10d3247e0c57b2359ab3778edc95f72c1b748",
+      "bytes": 3043
+    },
+    {
+      "path": "tools/budget.py",
+      "sha256": "1863d4d90457cb9f63c99bade0facf550ee2c7441daff54898d7cc567071ccc2",
+      "bytes": 1467
+    },
+    {
+      "path": "tools/demo.py",
+      "sha256": "05e310630c8aa510d101a7269ea679b97118be48833f14405219a055190b498f",
+      "bytes": 3253
+    },
+    {
+      "path": "tools/doctor.py",
+      "sha256": "45f5201657d6255b2703c23c3a98953e043ba02fd135b52bfc0ad3caf6c8286c",
+      "bytes": 1349
+    }
+  ]
+}

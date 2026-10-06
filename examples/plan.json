@@ -1,0 +1,12 @@
+{
+  "project": "demo_overlay",
+  "source": "VIDEO.mp4",
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "side": "right",
+  "overlays": [
+    {"id":"hook","type":"title_band","t":2,"dur":6,"color":"neutral","big":"Une idée claire","small":"Comprendre avant de choisir","sfx_events":[{"at":0,"name":"whoosh","vol":0.5}]},
+    {"id":"definition","type":"lower_third","t":22,"dur":6,"color":"neutral","title":"Le point essentiel","sub":"Une explication simple et précise","sfx_events":[{"at":0,"name":"pop","vol":0.4}]},
+    {"id":"checklist","type":"schema_checklist","t":40,"dur":10,"color":"solution","kicker":"À VÉRIFIER","rows":[{"text":"Le résultat","ok":true},{"text":"Le coût complet","ok":true},{"text":"Les limites","ok":true}],"sfx_events":[{"at":0,"name":"whoosh","vol":0.4},{"at":4,"name":"ding","vol":0.4}]}
+  ]
+}

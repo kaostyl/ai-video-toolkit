@@ -1,0 +1,45 @@
+{
+  "scope": "video-production-only",
+  "skills": [
+    {
+      "name": "video-planning",
+      "description": "Plan an original video from a brief, supplied footage or researched sources; write a script and timed shot list before production.",
+      "entrypoint": "skills/video-planning/SKILL.md"
+    },
+    {
+      "name": "video-editing",
+      "description": "Cut and assemble local video clips from an edit decision list using FFmpeg, preserving source files.",
+      "entrypoint": "skills/video-editing/SKILL.md"
+    },
+    {
+      "name": "video-overlays",
+      "description": "Add animated titles, HUD cards, keywords and synchronized SFX to a completed edit without changing its cuts.",
+      "entrypoint": "skills/video-overlays/SKILL.md"
+    },
+    {
+      "name": "video-captions",
+      "description": "Transcribe dialogue to timestamped SRT, correct it and optionally burn readable subtitles into a video.",
+      "entrypoint": "skills/video-captions/SKILL.md"
+    },
+    {
+      "name": "video-audio",
+      "description": "Mix dialogue, licensed music and locally synthesized sound effects, then measure the final loudness.",
+      "entrypoint": "skills/video-audio/SKILL.md"
+    },
+    {
+      "name": "video-generation",
+      "description": "Prepare and produce original AI video shots or speaking presenters with a provider connected to the agent environment.",
+      "entrypoint": "skills/video-generation/SKILL.md"
+    },
+    {
+      "name": "video-quality",
+      "description": "Inspect rendered video, timing, audio and editable delivery assets before handing over a final file.",
+      "entrypoint": "skills/video-quality/SKILL.md"
+    },
+    {
+      "name": "youtube-packaging",
+      "description": "Create an accurate YouTube title, description, chapters and thumbnail concept from the finished video.",
+      "entrypoint": "skills/youtube-packaging/SKILL.md"
+    }
+  ]
+}
